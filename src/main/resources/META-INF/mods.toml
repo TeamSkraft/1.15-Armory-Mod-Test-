@@ -1,0 +1,41 @@
+modLoader="javafml"
+
+loaderVersion="[31,)"
+
+[[mods]]
+
+modId="armory"
+
+version="1.15.2-1.0" #mandatory
+
+displayName="Armory" #mandatory
+
+displayURL="" #optional
+
+logoFile="" #optional
+
+credits="Made by Team SKraft" #optional
+
+authors="Shreyans Sahu" #optional
+
+description='''
+'''
+
+[[dependencies.examplemod]] #optional
+
+    modId="forge" #mandatory
+
+    mandatory=true #mandatory
+
+    versionRange="[31,)" #mandatory
+
+    ordering="NONE"
+
+    side="BOTH"
+
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

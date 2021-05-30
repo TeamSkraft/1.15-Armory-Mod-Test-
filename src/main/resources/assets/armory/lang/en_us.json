@@ -1,0 +1,25 @@
+{
+  "item.armory.tin": "Tin",
+  "item.armory.endur_ingot": "Ender Ingot",
+  "item.armory.enderite_scrap": "Enderite Scrape",
+  "item.armory.enderite_ingot": "Enderite Ingot",
+  "item.armory.vibranium_ingot": "Vibranium Ingot",
+  "itemGroup.mod_items": "Mod Items",
+  "itemGroup.armory": "Armory",
+
+  "block.armory.tin_ore": "Tin Ore",
+  "block.armory.ender_ore": "Ender Ore",
+  "block.armory.enderite_debris": "Enderite Debris",
+  "item.armory.vibranium_sword": "Vibranium Sword",
+  "item.armory.vibranium_pickaxe": "Vibranium Pickaxe",
+  "item.armory.vibranium_axe": "Vibranium Axe",
+  "item.armory.vibranium_shovel": "Vibranium Shovel",
+  "item.armory.vibranium_hoe": "Vibranium Hoe",
+
+  "item.armory.vibranium_helmet" : "Vibranium Helmet",
+  "item.armory.vibranium_chestplate" : "Vibranium Chestplate",
+  "item.armory.vibranium_leggings" : "Vibranium Leggings",
+  "item.armory.vibranium_boots" : "Vibranium Boots"
+
+
+}

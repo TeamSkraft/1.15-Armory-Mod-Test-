@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "armory:block/ender_ore" }
+  }
+}

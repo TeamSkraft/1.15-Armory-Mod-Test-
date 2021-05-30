@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "armory:ender_ore"
+  },
+  "result": "armory:endur_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}
